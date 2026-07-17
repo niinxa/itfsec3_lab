@@ -1,4 +1,4 @@
 """itf_lab"""
 def main():
-    print("Hello itf")
+    print("Hello lab434")
 main()
